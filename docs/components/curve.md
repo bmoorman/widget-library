@@ -1,6 +1,6 @@
-# standard-component
+# curve
 
-Wow! This component is awesome.
+Curve component based on chart.js with custom features
 
 ## Example
 

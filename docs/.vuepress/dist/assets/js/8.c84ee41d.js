@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{362:function(t,s,n){"use strict";n.r(s);var e=n(22),i=Object(e.a)({},(function(){var t=this.$createElement,s=this._self._c||t;return s("div",[s("curve",[this._v("This is slot content 1.")]),this._v(" "),s("curve",[this._v("This is slot content 2.")])],1)}),[],!1,null,null,null);s.default=i.exports}}]);

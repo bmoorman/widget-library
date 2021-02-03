@@ -1,6 +1,6 @@
 <template>
   <div>
-    <slot></slot>
+    <p>Hello this is CURVE component</p>
   </div>
 </template>
 

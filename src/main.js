@@ -1,6 +1,6 @@
 import * as components from './components'
 
-const ComponentLibrary = {
+const ComponentLib = {
   install(Vue, options = {}) {
     // components
     options.private = true
@@ -12,8 +12,8 @@ const ComponentLibrary = {
   }
 }
 
-export default ComponentLibrary
+export default ComponentLib
 
 if (typeof window !== 'undefined' && window.Vue) {
-  window.Vue.use(ComponentLibrary)
+  window.Vue.use(ComponentLib)
 }

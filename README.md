@@ -1,8 +1,13 @@
-# widget-library
+# web-component-lib
 
 ## Project setup
 ```
 npm install
+```
+
+### Compiles and hot-reloads for development, view documentation site in browser
+```
+npm run docs:dev
 ```
 
 ### Compiles and hot-reloads for development
